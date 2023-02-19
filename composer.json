@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nyholm/psr7": "^1.4",
+        "symfony/http-client": "^5.2",
+        "ipdata/api-client": "^0.1.0"
+    }
+}

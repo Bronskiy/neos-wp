@@ -1,0 +1,164 @@
+# Translation of WordPress customTheme by EvgenySalnikov
+#, fuzzy
+msgid ""
+msgstr ""
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: 2021-01-19 08:15+0000\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgid "Закваски"
+msgstr ""
+
+msgid "Для хлебобулочных изделий"
+msgstr ""
+
+msgid "Монокомпоненты"
+msgstr ""
+
+msgid "Для кондитерских изделий"
+msgstr ""
+
+msgid "Для молочных изделий"
+msgstr ""
+
+msgid "Подробнее"
+msgstr ""
+
+msgid "Цена"
+msgstr ""
+
+msgid "Тег"
+msgstr ""
+
+msgid "Не выбрано"
+msgstr ""
+
+msgid "Главная"
+msgstr ""
+
+msgid "Подать резюме"
+msgstr ""
+
+msgid "Смотреть все"
+msgstr ""
+
+msgid "Тип продукта"
+msgstr ""
+
+msgid "Тип отрасли"
+msgstr ""
+
+msgid "Зарегистрироваться"
+msgstr ""
+
+msgid "Стать партнером"
+msgstr ""
+
+msgid "Цена"
+msgstr ""
+
+msgid "Все"
+msgstr ""
+
+msgid "Галерея"
+msgstr ""
+
+msgid "Вакансия"
+msgstr ""
+
+msgid "Загрузить документы"
+msgstr ""
+
+msgid "Задать вопрос"
+msgstr ""
+
+msgid "Принять и закрыть"
+msgstr ""
+
+msgid "Форма отправлена"
+msgstr ""
+
+msgid "Форма не отправлена"
+msgstr ""
+
+msgid "Произошла ошибка"
+msgstr ""
+
+msgid "Свяжитесь с нами по телефону"
+msgstr ""
+
+msgid "Поиск"
+msgstr ""
+
+msgid "Ничего не найдено"
+msgstr ""
+
+
+
+
+msgid "Текст"
+msgstr ""
+
+msgid "Страницы"
+msgstr ""
+
+msgid "Товары"
+msgstr ""
+
+msgid "Товары по типу отрасли"
+msgstr ""
+
+msgid "Товары по типу продукта"
+msgstr ""
+
+msgid "Новости"
+msgstr ""
+
+msgid "Вакансии"
+msgstr ""
+
+
+
+
+
+
+msgid "Января"
+msgstr ""
+
+msgid "Февраля"
+msgstr ""
+
+msgid "Марта"
+msgstr ""
+
+msgid "Апреля"
+msgstr ""
+
+msgid "Мая"
+msgstr ""
+
+msgid "Июня"
+msgstr ""
+
+msgid "Июля"
+msgstr ""
+
+msgid "Августа"
+msgstr ""
+
+msgid "Сентября"
+msgstr ""
+
+msgid "Октябоя"
+msgstr ""
+
+msgid "Ноября"
+msgstr ""
+
+msgid "Декабря"
+msgstr ""

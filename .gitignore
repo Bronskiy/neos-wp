@@ -1,0 +1,16 @@
+/___*
+/**/___*
+
+/*.__old__.*
+/*.__old__
+/*.__old__/**/*
+
+/*.__mytest__.*
+/*.__mytest__
+/*.__mytest__/**/*
+
+/vendor/
+/composer.phar
+
+!assets/
+assets/**/*
